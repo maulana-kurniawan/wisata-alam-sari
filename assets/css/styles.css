@@ -1,168 +1,5 @@
 @charset "UTF-8";
 
-/**
- * @license
- *
- * Font Family: Supreme
- * Designed by: Jérémie Hornus, Ilya Naumoff
- * URL: https://www.fontshare.com/fonts/supreme
- * © 2023 Indian Type Foundry
- *
-*/
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-Thin.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-Thin.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-Thin.ttf') format('truetype');
-  font-weight: 100;
-  font-display: swap;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-ThinItalic.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-ThinItalic.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-ThinItalic.ttf') format('truetype');
-  font-weight: 100;
-  font-display: swap;
-  font-style: italic;
-}
-
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-Extralight.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-Extralight.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-Extralight.ttf') format('truetype');
-  font-weight: 200;
-  font-display: swap;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-ExtralightItalic.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-ExtralightItalic.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-ExtralightItalic.ttf') format('truetype');
-  font-weight: 200;
-  font-display: swap;
-  font-style: italic;
-}
-
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-Light.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-Light.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-Light.ttf') format('truetype');
-  font-weight: 300;
-  font-display: swap;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-LightItalic.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-LightItalic.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-LightItalic.ttf') format('truetype');
-  font-weight: 300;
-  font-display: swap;
-  font-style: italic;
-}
-
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-Regular.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-Regular.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-Regular.ttf') format('truetype');
-  font-weight: 400;
-  font-display: swap;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-Italic.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-Italic.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-Italic.ttf') format('truetype');
-  font-weight: 400;
-  font-display: swap;
-  font-style: italic;
-}
-
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-Medium.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-Medium.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-Medium.ttf') format('truetype');
-  font-weight: 500;
-  font-display: swap;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-MediumItalic.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-MediumItalic.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-MediumItalic.ttf') format('truetype');
-  font-weight: 500;
-  font-display: swap;
-  font-style: italic;
-}
-
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-Bold.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-Bold.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-Bold.ttf') format('truetype');
-  font-weight: 700;
-  font-display: swap;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-BoldItalic.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-BoldItalic.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-BoldItalic.ttf') format('truetype');
-  font-weight: 700;
-  font-display: swap;
-  font-style: italic;
-}
-
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-Extrabold.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-Extrabold.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-Extrabold.ttf') format('truetype');
-  font-weight: 800;
-  font-display: swap;
-  font-style: normal;
-}
-
-
-@font-face {
-  font-family: 'Supreme';
-  src: url('/assets/fonts/supreme/Supreme-ExtraboldItalic.woff2') format('woff2'),
-    url('/assets/fonts/supreme/Supreme-ExtraboldItalic.woff') format('woff'),
-    url('/assets/fonts/supreme/Supreme-ExtraboldItalic.ttf') format('truetype');
-  font-weight: 800;
-  font-display: swap;
-  font-style: italic;
-}
-
 /*!
 * Start Bootstrap - Creative v7.0.7 (https://startbootstrap.com/theme/creative)
 * Copyright 2013-2023 Start Bootstrap
@@ -198,7 +35,7 @@
   --bs-gray-700: #495057;
   --bs-gray-800: #343a40;
   --bs-gray-900: #212529;
-  --bs-primary: #f4623a;
+  --bs-primary: #198754;
   --bs-secondary: #6c757d;
   --bs-success: #198754;
   --bs-info: #0dcaf0;
@@ -238,7 +75,7 @@
   --bs-border-radius-2xl: 2rem;
   --bs-border-radius-pill: 50rem;
   --bs-link-color: #198754;
-  --bs-link-hover-color: #157347;
+  --bs-link-hover-color: #146c43;
   --bs-code-color: #d63384;
   --bs-highlight-bg: #fff3cd;
 }
@@ -3467,19 +3304,19 @@ fieldset:disabled .btn {
 
 .btn-primary {
   --bs-btn-color: #fff;
-  --bs-btn-bg: #f4623a;
-  --bs-btn-border-color: #f4623a;
+  --bs-btn-bg: #198754;
+  --bs-btn-border-color: #198754;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #cf5331;
-  --bs-btn-hover-border-color: #c34e2e;
+  --bs-btn-hover-bg: #157347;
+  --bs-btn-hover-border-color: #146c43;
   --bs-btn-focus-shadow-rgb: 246, 122, 88;
   --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #c34e2e;
-  --bs-btn-active-border-color: #b74a2c;
+  --bs-btn-active-bg: #146c43;
+  --bs-btn-active-border-color: #13653f;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
   --bs-btn-disabled-color: #fff;
-  --bs-btn-disabled-bg: #f4623a;
-  --bs-btn-disabled-border-color: #f4623a;
+  --bs-btn-disabled-bg: #198754;
+  --bs-btn-disabled-border-color: #198754;
 }
 
 .btn-secondary {
@@ -3602,19 +3439,19 @@ fieldset:disabled .btn {
 }
 
 .btn-outline-primary {
-  --bs-btn-color: #f4623a;
-  --bs-btn-border-color: #f4623a;
+  --bs-btn-color: #198754;
+  --bs-btn-border-color: #198754;
   --bs-btn-hover-color: #fff;
-  --bs-btn-hover-bg: #f4623a;
-  --bs-btn-hover-border-color: #f4623a;
-  --bs-btn-focus-shadow-rgb: 244, 98, 58;
+  --bs-btn-hover-bg: #198754;
+  --bs-btn-hover-border-color: #198754;
+  --bs-btn-focus-shadow-rgb: 25, 135, 84;
   --bs-btn-active-color: #fff;
-  --bs-btn-active-bg: #f4623a;
-  --bs-btn-active-border-color: #f4623a;
+  --bs-btn-active-bg: #198754;
+  --bs-btn-active-border-color: #198754;
   --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);
-  --bs-btn-disabled-color: #f4623a;
+  --bs-btn-disabled-color: #198754;
   --bs-btn-disabled-bg: transparent;
-  --bs-btn-disabled-border-color: #f4623a;
+  --bs-btn-disabled-border-color: #198754;
   --bs-gradient: none;
 }
 
@@ -3775,6 +3612,33 @@ fieldset:disabled .btn {
   --bs-btn-padding-x: 0.5rem;
   --bs-btn-font-size: 0.875rem;
   --bs-btn-border-radius: 0.25rem;
+}
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+}
+
+.btn-circle.btn-lg {
+  width: 50px;
+  height: 50px;
+  font-size: 18px;
+  line-height: 1.33;
+  border-radius: 25px;
+}
+
+.btn-circle.btn-xl {
+  width: 70px;
+  height: 70px;
+  padding: 14px 14px;
+  font-size: 24px;
+  line-height: 1.33;
+  border-radius: 35px;
 }
 
 .fade {
@@ -7822,12 +7686,12 @@ fieldset:disabled .btn {
 }
 
 .link-primary {
-  color: #f4623a !important;
+  color: #198754 !important;
 }
 
 .link-primary:hover,
 .link-primary:focus {
-  color: #c34e2e !important;
+  color: #146c43 !important;
 }
 
 .link-secondary {
@@ -12967,7 +12831,7 @@ header.masthead .h1 {
   text-align: center;
   opacity: 0;
   color: #fff;
-  background-color: rgba(25, 135, 84, 0.9);
+  background: rgba(25, 135, 84, 0.9);
   transition: opacity 0.25s ease;
   text-align: center;
 }
