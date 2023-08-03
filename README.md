@@ -1,3 +1,3 @@
 # Wisata Alam Sari
 
-Landing page ini dibuat dalam bentuk kontribusi saya dan [Sandi Nurhadiana](https://github.com/sandinurhadiana) untuk kelompok 3 KKNTM Politeknik LP3I Kampus Tasikmalaya pada bulan April tahun 2022. Template dari landing page ini menggunakan [Creative Bootstrap](https://startbootstrap.com/theme/creative/) yang disediakan oleh [Start Bootstrap](https://startbootstrap.com/).
+This landing page was created as a contribution from myself and [Sandi Nurhadiana](https://github.com/sandinurhadiana) for group 3 KKNTM Politeknik LP3I Tasikmalaya in April 2022. The template of this landing page uses [Creative Bootstrap](https://startbootstrap.com/theme/creative/) provided by [Start Bootstrap](https://startbootstrap.com/).
